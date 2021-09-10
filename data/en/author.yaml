@@ -1,0 +1,19 @@
+# some information about you
+name: "Anupa Kulathunga"
+nickname: "Anupa"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/anupa.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "pmadnkulathunga@gmail.com"
+  phone: "+94712068707"
+
+# some summary about what you do
+summary:
+  - I am a BSc Undergraduate
+  - I love working on Remote Sensing Projects
+  - I love Data Science
+  - I love Volunteering
+  - I work on research based projects
+  - I love to work with some fun projects
