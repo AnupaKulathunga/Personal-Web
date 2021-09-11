@@ -1,4 +1,5 @@
-baseURL: https://www.anupakulathunga.me
+#baseURL: https://www.anupakulathunga.me
+baseURL: https://gitlab.com/AnupaKulathunga/personal-website/
 
 languageCode: en-us
 title: "Anupa Kulathunga"
