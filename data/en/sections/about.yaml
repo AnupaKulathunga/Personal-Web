@@ -52,13 +52,13 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Remote Sensing
+  name: Cloud Practices
   percentage: 80
   color: "#E01C33"
 
 - type: soft-skill-indicator
   name: Programming
-  percentage: 90
+  percentage: 80
   color: "#2E284D"
 
 - type: soft-skill-indicator
