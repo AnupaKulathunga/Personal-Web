@@ -18,9 +18,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Surveying Science student with broad interest in theories of Remote Sensing with spatial data as well as data science with
-python and interest in astronomy since childhood. Apart from academic love to do photography and graphic designing
-work.'
+summary: 'Coming from a background in surveying and space science, I am passionate about cloud infrastructure and system administration. Pursuing an internship in DevOps and System Engineering, I aim to combine my foundational knowledge with a drive for cloud technology, aspiring to contribute significantly as an Intern DevOps Engineer / System Engineer.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -39,7 +37,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/anupa-kulathunga-a62983199/"
+  url: "https://www.linkedin.com/in/anupakulathunga"
 
 - name: Twitter
   icon: "fab fa-twitter"

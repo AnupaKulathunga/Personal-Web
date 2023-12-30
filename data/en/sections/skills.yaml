@@ -1,0 +1,51 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  - name: Docker
+    logo: /images/sections/skills/docker.svg
+    summary: "Expert in containerizing applications using Docker, focusing on efficient deployment and scalability."
+    url: "https://www.docker.com/"
+
+  - name: Kubernetes
+    logo: /images/sections/skills/kubernetes.png
+    summary: "Proficient in Kubernetes for deploying and managing applications, with a focus on cloud infrastructure optimization."
+    url: "https://kubernetes.io/"
+
+  - name: Prometheus
+    logo: /images/sections/skills/prometheus.png
+    summary: "Skilled in configuring Prometheus for monitoring and alerting, enhancing system observability."
+    url: "https://prometheus.io/"
+
+  - name: Grafana
+    logo: /images/sections/skills/grafana.png
+    summary: "Experienced in Grafana for metrics visualization and analysis, improving monitoring and performance."
+    url: "https://grafana.com/"
+
+  - name: PostgreSQL
+    logo: /images/sections/skills/postgresql.png
+    summary: "Knowledgeable in PostgreSQL database management, focusing on data integrity and performance."
+    url: "https://www.postgresql.org/"
+
+  - name: Git
+    logo: /images/sections/skills/git.png
+    summary: "Experienced in Git for version control, supporting collaborative and efficient development."
+    url: "https://git-scm.com/"
+
+  - name: Bash Scripting
+    logo: /images/sections/skills/bash.png
+    summary: "Proficient in Bash scripting for task automation and system administration enhancements."
+
+  - name: Python Scripting
+    logo: /images/sections/skills/python.png
+    summary: "Utilizes Python scripting for automation, data analysis, and backend development."
+    url: "https://www.python.org/"
