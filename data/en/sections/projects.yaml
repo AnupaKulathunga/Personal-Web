@@ -16,8 +16,8 @@ buttons:
   filter: "professional"
 # - name: Academic
 #   filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Volunteering
+  filter: "volunteering"
 
 # your projects
 # projects:
