@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: BSc Undergraduate
+designation: DevOps Engineer
 # your company information
 company:
-  name: Sabaragamuwa University of Sri Lanka
-  url: "https://www.sab.ac.lk"
+  name: Applova Inc
+  url: "http://applova.io/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Coming from a background in surveying and space science, I am passionate about cloud infrastructure and system administration. Pursuing an internship in DevOps and System Engineering, I aim to combine my foundational knowledge with a drive for cloud technology, aspiring to contribute significantly as an Intern DevOps Engineer / System Engineer.'
+summary: 'As a passionate DevOps Engineer at Applova Inc., I specialize in cloud infrastructure and system administration. I am dedicated to optimizing cloud-based solutions and driving efficiency through automation and innovative practices. My journey into DevOps has been fueled by a strong commitment to learning and problem-solving, and I aim to continue contributing to the field by tackling complex challenges with a fresh perspective.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
