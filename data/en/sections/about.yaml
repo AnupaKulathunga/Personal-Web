@@ -47,6 +47,10 @@ socialLinks:
   icon: "fab fa-facebook"
   url: "https://www.facebook.com/anupa.kulathunga"
 
+- name: Buy Me a Coffee
+  icon: "fas fa-coffee"
+  url: "https://buymeacoffee.com/anupakulathunga"
+
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
