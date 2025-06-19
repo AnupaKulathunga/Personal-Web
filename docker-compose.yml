@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "1313:1313"
+    environment:
+      - HUGO_ENABLEGITINFO=${HUGO_ENABLEGITINFO}
+      - HUGO_ENV=${HUGO_ENV}
+      - HUGO_THEME=${HUGO_THEME}
+      - HUGO_VERSION=${HUGO_VERSION}
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    restart: unless-stopped
