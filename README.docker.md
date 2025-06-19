@@ -1,32 +1,24 @@
-# Docker Setup
+# Generic Docker Setup
+
+This is a generic Docker configuration that needs customization for your specific application.
 
 ## Quick Start
 
-```bash
-# Build the image
-docker build -t my-js-app .
-
-# Run the container
-docker run -p 1313:1313 my-js-app
-```
-
-## Using Docker Compose
+1. Customize the Dockerfile for your application
+2. Update the docker-compose.yml as needed
+3. Build and run:
 
 ```bash
-# Start services
-docker-compose up
-
-# Start in background
-docker-compose up -d
+docker-compose up --build
 ```
-
-## Environment Variables
-
-- `HUGO_ENABLEGITINFO`: Enable Git info
-- `HUGO_ENV`: Environment setting
-- `HUGO_THEME`: Theme setting
-- `HUGO_VERSION`: Version setting
 
 ## Ports
 
-- 1313: Main application port
+- 8080: Main application port (customize as needed)
+
+## Next Steps
+
+1. Update the Dockerfile with your language-specific base image
+2. Add your application's build and run commands
+3. Configure environment variables
+4. Add health check endpoint to your application
